@@ -1,5 +1,4 @@
 # files
-connection.php
 refreshToken.php
 jwt_header.php
 
